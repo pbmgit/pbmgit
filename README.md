@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @pbmgit
 - 👀 I’m interested in Brewing, Electronics, Automation, Home Improvement
-- 🌱 I’m currently learning GITHUB, Wordpress, Marlin, 
+- 🌱 I’m currently learning GITHUB, Marlin, ST Microcontrollers
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... Blog at DIYHomeEngineer.com
+- 📫 How to reach me ... Reddit /u/pmallonee / /r/BeermkrAfterlife
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
 
